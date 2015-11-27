@@ -3,3 +3,6 @@ In this repository, I justed basic JavaScript logic to make a calculator that an
 I used HTML and JS to complete this assignment
 
 Here is the link to my deployed project: 
+add-me.surge.sh
+
+I hope you enjoy! 
